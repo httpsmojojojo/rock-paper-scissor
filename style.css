@@ -1,0 +1,16 @@
+* {
+    font-family: Helvetica;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+  
+button {
+    font-size: 18pt;
+    font-weight: bold;
+}
