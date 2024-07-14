@@ -1,15 +1,16 @@
 # Rock-Paper-Scissors Game
 
-This is a simple Rock-Paper-Scissors game implemented in JavaScript. The main objective of this project is to practice basic JavaScript skills, such as creating functions, handling user input, and managing game logic.
+This is a simple Rock-Paper-Scissors game implemented in JavaScript. The main objective of this project is to practice basic JavaScript skills, such as creating functions, handling user input, and managing game logic, while providing a user-friendly interface.
 
 ## Project Overview
 
-The game allows a user to play against the computer for 5 rounds. It keeps track of the scores and displays the final result at the end of the game.
+The game allows a user to play against the computer until one player reaches 5 points. It keeps track of the scores and displays the results in a visually appealing UI.
 
 ## Technologies Used
 
 - JavaScript
-- HTML (for the prompt functionality in the browser)
+- HTML
+- CSS
 
 ## Installation
 
@@ -30,9 +31,9 @@ The game allows a user to play against the computer for 5 rounds. It keeps track
 The game is designed to be user-friendly and easy to play. Here's how you can use it:
 
 1. Open the `index.html` file in your web browser.
-2. Follow the prompts to choose `rock`, `paper`, or `scissors` for each round.
-3. The game will display the choices and the winner of each round.
-4. After 5 rounds, the game will display the final scores and announce the overall winner.
+2. Click on the buttons labeled `Rock`, `Paper`, or `Scissors` to make your choice for each round.
+3. The game will display your choice, the computer's choice, and the winner of each round.
+4. The score will be updated after each round. Once a player reaches 5 points, the game will display the final scores and announce the overall winner.
 
 ## Contributing
 
